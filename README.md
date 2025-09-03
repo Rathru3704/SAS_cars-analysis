@@ -27,7 +27,7 @@ This SAS project demonstrates advanced proficiency in SAS, including **Data Step
 
 - **Reporting**
   - Beautiful tables using `PROC REPORT`
-  - Export reports in **HTML, PDF, and RTF** formats using ODS
+  - Export reports in **HTML, and PDF** formats using ODS
 
 ## File Description
 - `Cars_Analysis.sas` : Complete SAS script with detailed English comments for every step
